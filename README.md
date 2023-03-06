@@ -23,3 +23,13 @@ Vi anvender en slags MVC-pattern.
 
 Husk! View og model må ikke tale sammen, medmindre det er via controlleren.
  
+## Opret Git repo
+Find først din mappe i din stifinder, og højreklik på den ved at åbne den med "Git Bash Here"
+```shell
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Kussemar/intranet.git
+git push -u origin main
+genindlæs side :-)
+```
