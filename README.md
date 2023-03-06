@@ -31,5 +31,11 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/Kussemar/intranet.git
 git push -u origin main
-genindlæs side :-)
+genindlæs siden :-)
+
+Tilføj nye ting
+git add .
+git commit -m "commit"
+git push -u origin main
+genindlæs siden :-)
 ```
